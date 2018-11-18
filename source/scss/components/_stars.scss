@@ -1,0 +1,18 @@
+.star-list {
+    color: #ff8d00;
+
+    label {
+        cursor: pointer;
+    }
+
+    .fa-star {
+        &:hover::before {
+            content: "\f005";
+            opacity: .5;
+        }
+    }
+
+    input[type='radio'] {
+        display: none;
+    }
+}

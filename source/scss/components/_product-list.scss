@@ -1,0 +1,32 @@
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    list-style: none;
+    padding: 5px 0 0 5px;
+    margin: 0;
+
+    li {
+        margin: 0 5px 5px 0;
+        overflow: hidden;
+        width: calc(100% / 6 - 5px);
+    }
+
+    @include lg() {
+        li {
+            width: calc(100% / 4 - 5px);
+        }
+    }
+
+    @include md() {
+        li {
+            width: calc(100% / 2 - 5px);
+        }
+    }
+
+    @include sm() {
+        li {
+            width: 100%;
+        }
+    }
+}

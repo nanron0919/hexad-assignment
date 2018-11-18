@@ -1,0 +1,451 @@
+[
+{
+    "name": "A Star is Born (Original Motion Picture Soundtrack)",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71Qsuzv97oL._AC_UL200_SR200,200_.jpg",
+    "artist": "Lady Gaga",
+    "category": "Audio CD",
+    "price": 13.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-0"
+},
+{
+    "name": "The Beatles (The White Album) [6 CD + Blu-ray]",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/610H57kUX1L._AC_UL200_SR200,200_.jpg",
+    "artist": "The Beatles",
+    "category": "Audio CD",
+    "price": 138.74,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-1"
+},
+{
+    "name": "Bohemian Rhapsody",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/91sLchfSmpL._AC_UL200_SR200,200_.jpg",
+    "artist": "Queen",
+    "category": "Audio CD",
+    "price": 11.88,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-2"
+},
+{
+    "name": "The Beatles (The White Album) [3 CD]",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/612Iz27u52L._AC_UL200_SR200,200_.jpg",
+    "artist": "The Beatles",
+    "category": "Audio CD",
+    "price": 22.97,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-3"
+},
+{
+    "name": "The Platinum Collection: Greatest Hits I, II & III",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71lfIy0%2Bu1L._AC_UL200_SR200,200_.jpg",
+    "artist": "Queen",
+    "category": "Audio CD",
+    "price": 22.05,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-4"
+},
+{
+    "name": "Look Up Child",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/B1vWbGsU50S._AC_UL200_SR200,200_.jpg",
+    "artist": "Lauren Daigle",
+    "category": "Audio CD",
+    "price": 11.32,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-5"
+},
+{
+    "name": "Walls",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71rtw1w1uqL._AC_UL200_SR200,200_.jpg",
+    "artist": "Barbra Streisand",
+    "category": "Audio CD",
+    "price": 11.88,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-6"
+},
+{
+    "name": "Origins",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81r2TAHZEJL._AC_UL200_SR200,200_.jpg",
+    "artist": "Imagine Dragons",
+    "category": "Audio CD",
+    "price": 11.88,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-7"
+},
+{
+    "name": "love (Deluxe Edition)",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/91nJB73tnOL._AC_UL200_SR200,200_.jpg",
+    "artist": "Michael Bublé",
+    "category": "Audio CD",
+    "price": 12.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-8"
+},
+{
+    "name": "The Greatest Showman",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/61Vm5mBtRgL._AC_UL200_SR200,200_.jpg",
+    "artist": "Hugh Jackman",
+    "category": "Audio CD",
+    "price": 10.49,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-9"
+},
+{
+    "name": "Si [Deluxe Edition]",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/91M6f%2Bag3tL._AC_UL200_SR200,200_.jpg",
+    "artist": "Andrea Bocelli",
+    "category": "Audio CD",
+    "price": 14.07,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-10"
+},
+{
+    "name": "The Greatest Showman: Reimagined",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81MYNUVOoaL._AC_UL200_SR200,200_.jpg",
+    "artist": "The Greatest Showman",
+    "category": "Audio CD",
+    "price": 10.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-11"
+},
+{
+    "name": "Christmas Is Here!",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71UPMG0OzKL._AC_UL200_SR200,200_.jpg",
+    "artist": "Pentatonix",
+    "category": "Audio CD",
+    "price": 11.29,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-12"
+},
+{
+    "name": "Golden Hour",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51k7S8%2BkLDL._AC_UL200_SR200,200_.jpg",
+    "artist": "Kacey Musgraves",
+    "category": "Audio CD",
+    "price": 11.83,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-13"
+},
+{
+    "name": "Interstate Gospel",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71xeh9tMCNL._AC_UL200_SR200,200_.jpg",
+    "artist": "Pistol Annies",
+    "category": "Audio CD",
+    "price": 8.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-14"
+},
+{
+    "name": "Happy Xmas",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81mu9XvjxML._AC_UL200_SR200,200_.jpg",
+    "artist": "Eric Clapton",
+    "category": "Audio CD",
+    "price": 9.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-15"
+},
+{
+    "name": "Hamilton (Original Broadway Cast…",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81n9mbvLheL._AC_UL200_SR200,200_.jpg",
+    "artist": "Various Artists",
+    "category": "Audio CD",
+    "price": 18.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-16"
+},
+{
+    "name": "Greatest Hit$ [Vinyl]",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/91QQLPINJ7L._AC_UL200_SR200,200_.jpg",
+    "artist": "Motley Crue",
+    "category": "Vinyl",
+    "price": 9.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-17"
+},
+{
+    "name": "A Star is Born (Original Motion Picture…",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/918gjiXT5wL._AC_UL200_SR200,200_.jpg",
+    "artist": "Lady Gaga/Bradley Cooper",
+    "category": "Audio CD",
+    "price": 12.94,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-18"
+},
+{
+    "name": "Delta",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81I0bhKuq5L._AC_UL200_SR200,200_.jpg",
+    "artist": "Mumford & Sons",
+    "category": "Audio CD",
+    "price": 10.81,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-19"
+},
+{
+    "name": "More Blood, More Tracks: The Bootleg Series Vol.…",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71sk%2BlKvEiL._AC_UL200_SR200,200_.jpg",
+    "artist": "Bob Dylan",
+    "category": "Audio CD",
+    "price": 11.29,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-20"
+},
+{
+    "name": "Shatner Claus - The Christmas Album",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71FrZrBKVdL._AC_UL200_SR200,200_.jpg",
+    "artist": "William Shatner",
+    "category": "Audio CD",
+    "price": 12.69,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-21"
+},
+{
+    "name": "Traveller",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51uvUNOAmsL._AC_UL200_SR200,200_.jpg",
+    "artist": "Chris Stapleton",
+    "category": "Audio CD",
+    "price": 11.96,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-22"
+},
+{
+    "name": "A Legendary Christmas",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71puTP%2B02tL._AC_UL200_SR200,200_.jpg",
+    "artist": "John Legend",
+    "category": "Audio CD",
+    "price": 9.97,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-23"
+},
+{
+    "name": "A Charlie Brown Christmas [Green Vinyl]",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/91LElVsvSgL._AC_UL200_SR200,200_.jpg",
+    "artist": "Vince Guaraldi",
+    "category": "Vinyl",
+    "price": 15.96,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-24"
+},
+{
+    "name": "Experiment",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71Fe2lL8maL._AC_UL200_SR200,200_.jpg",
+    "artist": "Kane Brown",
+    "category": "Audio CD",
+    "price": 9.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-25"
+},
+{
+    "name": "Precious Memories Collection [2 CD]",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/616d0EX7ePL._AC_UL200_SR200,200_.jpg",
+    "artist": "Alan Jackson",
+    "category": "Audio CD",
+    "price": 11.8,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-26"
+},
+{
+    "name": "The Beatles (The White Album) [4 LP]",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71xx7vpz7-L._AC_UL200_SR200,200_.jpg",
+    "artist": "The Beatles",
+    "category": "Vinyl",
+    "price": 90.34,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-27"
+},
+{
+    "name": "Down The Road Wherever",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/A1mRE6uSL4L._AC_UL200_SR200,200_.jpg",
+    "artist": "Mark Knopfler",
+    "category": "Audio CD",
+    "price": 12.59,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-28"
+},
+{
+    "name": "Merry Christmas",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71b702BjRuL._AC_UL200_SR200,200_.jpg",
+    "artist": "Bing Crosby",
+    "category": "Vinyl",
+    "price": 16.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-29"
+},
+{
+    "name": "Anthem Of The Peaceful Army",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/715ByyULmYL._AC_UL200_SR200,200_.jpg",
+    "artist": "Greta Van Fleet",
+    "category": "Audio CD",
+    "price": 11.88,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-30"
+},
+{
+    "name": "Simulation Theory (Deluxe)",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/91AX5n-YPlL._AC_UL200_SR200,200_.jpg",
+    "artist": "Muse",
+    "category": "Audio CD",
+    "price": 16.48,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-31"
+},
+{
+    "name": "Graffiti U",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81s-uJSoicL._AC_UL200_SR200,200_.jpg",
+    "artist": "Keith Urban",
+    "category": "Audio CD",
+    "price": 11.83,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-32"
+},
+{
+    "name": "From A Room: Volume 1",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51S-%2Bys5QNL._AC_UL200_SR200,200_.jpg",
+    "artist": "Chris Stapleton",
+    "category": "Audio CD",
+    "price": 9.97,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-33"
+},
+{
+    "name": "An American Treasure (Deluxe)(4CD)",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/718lkFXMKtL._AC_UL200_SR200,200_.jpg",
+    "artist": "Tom Petty",
+    "category": "Audio CD",
+    "price": 36.84,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-34"
+},
+{
+    "name": "Desperate Man",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71YZXNzo5cL._AC_UL200_SR200,200_.jpg",
+    "artist": "Eric Church",
+    "category": "Audio CD",
+    "price": 11.32,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-35"
+},
+{
+    "name": "Frozen",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81BvWglRu4L._AC_UL200_SR200,200_.jpg",
+    "artist": "Christophe Beck",
+    "category": "Audio CD",
+    "price": 7.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-36"
+},
+{
+    "name": "Springsteen on Broadway",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/915UzYaht0L._AC_UL200_SR200,200_.jpg",
+    "artist": "Bruce Springsteen",
+    "category": "Audio CD",
+    "price": 17.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-37"
+},
+{
+    "name": "SHINY AND OH SO BRIGHT, VOL. 1 / NO PAST.…",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81CWdjRvVUL._AC_UL200_SR200,200_.jpg",
+    "artist": "The Smashing Pumpkins",
+    "category": "Audio CD",
+    "price": 8.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-38"
+},
+{
+    "name": "I Serve A Savior",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/714Sr5OJRqL._AC_UL200_SR200,200_.jpg",
+    "artist": "Josh Turner",
+    "category": "Audio CD",
+    "price": 9.97,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-39"
+},
+{
+    "name": "Electric Ladyland - 50th Anniversary Deluxe Edition",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71HAmTycTUL._AC_UL200_SR200,200_.jpg",
+    "artist": "The Jimi Hendrix Experience",
+    "category": "Audio CD",
+    "price": 49.19,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-40"
+},
+{
+    "name": "From A Room: Volume 2",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81Tz3bzQo-L._AC_UL200_SR200,200_.jpg",
+    "artist": "Chris Stapleton",
+    "category": "Audio CD",
+    "price": 9.34,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-41"
+},
+{
+    "name": "Si",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/91M6f%2Bag3tL._AC_UL200_SR200,200_.jpg",
+    "artist": "Andrea Bocelli",
+    "category": "Audio CD",
+    "price": 11.05,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-42"
+},
+{
+    "name": "The Elements",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/91Evdn5zBML._AC_UL200_SR200,200_.jpg",
+    "artist": "TobyMac",
+    "category": "Audio CD",
+    "price": 12.59,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-43"
+},
+{
+    "name": "More Blood, More Tracks: The Bootleg Series Vol.…",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81U28Ji-wIL._AC_UL200_SR200,200_.jpg",
+    "artist": "Bob Dylan",
+    "category": "Audio CD",
+    "price": 114.98,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-44"
+},
+{
+    "name": "Christmas",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71UTGwpfwwL._AC_UL200_SR200,200_.jpg",
+    "artist": "Michael Bublé",
+    "category": "Audio CD",
+    "price": 11.99,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-45"
+},
+{
+    "name": "Greatest Hits: \"We Will Rock You\" Edition",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71ppskeiZgL._AC_UL200_SR200,200_.jpg",
+    "artist": "Queen",
+    "category": "Audio CD",
+    "price": 13.98,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-46"
+},
+{
+    "name": "Cry Pretty",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71mUbs2%2B4oL._AC_UL200_SR200,200_.jpg",
+    "artist": "Carrie Underwood",
+    "category": "Audio CD",
+    "price": 10.81,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-47"
+},
+{
+    "name": "This One's for You Too (Deluxe Edition)",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81z0lq9nIrL._AC_UL200_SR200,200_.jpg",
+    "artist": "Luke Combs",
+    "category": "Audio CD",
+    "price": 11.5,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-48"
+},
+{
+    "name": "Greatest Hits I [2 LP]",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/8104ss9V1-L._AC_UL200_SR200,200_.jpg",
+    "artist": "Queen",
+    "category": "Vinyl",
+    "price": 29.98,
+    "stars": 1,
+    "itemId": "fdc0ecd48179-49"
+}]

@@ -1,0 +1,42 @@
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 .67rem;
+}
+
+p {
+    margin: 0 0 .5rem 0;
+}
+
+.hide {
+    display: none;
+}
+
+.main-header {
+    background: #fff;
+    box-shadow: 0 0 4px -1px #000;
+    min-height: 3rem;
+    padding: 10px 5px;
+    position: sticky;
+    top: 0;
+
+    .fa-spin {
+        margin: 0 3px 0 0;
+    }
+}
+
+.btn {
+    border-radius: 3px;
+    padding: 5px 10px;
+    transition: all .2s ease-out;
+}
+
+.btn-primary {
+    border: 1px solid #ccc;
+    color: #fff;
+    cursor: pointer;
+    background: #971d82;
+    outline: none;
+
+    &:hover {
+        background: rgba(151, 29, 130, .7);
+    }
+}

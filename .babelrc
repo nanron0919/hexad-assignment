@@ -1,0 +1,17 @@
+{
+    "plugins": [
+        "transform-class-properties",
+        "syntax-decorators",
+        "transform-decorators-legacy"
+    ],
+    "presets": ["env", "react"],
+    "env":
+    {
+        "development":
+        {
+            "presets": [
+                "react-hmre"
+            ]
+        }
+    }
+}
