@@ -50,9 +50,9 @@ export default class Header extends Component {
         return (
             <header className='main-header'>
                 <button className='btn btn-primary' onClick={ this.handleSort }>
-                    { spinner }
                     { randomButtonText }
                 </button>
+                { spinner }
             </header>
         );
     }
